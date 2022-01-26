@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ZahabiyaHalela 
-- 👀 I’m interested in data 
-- 🌱 I’m currently learning how to use machine learning algorithms to make life easier 
-- 💞️ I’m looking to collaborate on projects
+- 👋 Hi there, I’m @ZahabiyaHalela 
+- 👀 Always ready to have a conversation on Data Analytics, K-pop, Food, Travel, Music etc  
+- 🌱 I’m currently learning how to use machine learning algorithms to make my own and others life easier !  
 - 📫 How to reach me zrjhalela@gmail.com
 
 <!---
